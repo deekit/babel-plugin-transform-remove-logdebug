@@ -1,0 +1,17 @@
+{
+  "name": "babel-plugin-transform-remove-logdebug",
+  "version": "0.1.0",
+  "description": "Remove LOG.debug calls",
+  "repository": "https://github.com/deekit/babel-plugin-transform-remove-logdebug",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "babel-runtime": "^5.0.0"
+  },
+  "devDependencies": {
+    "babel-helper-plugin-test-runner": "^6.1.18"
+  }
+}

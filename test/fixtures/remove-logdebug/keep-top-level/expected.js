@@ -1,0 +1,2 @@
+LOG.info("bar");
+blah();

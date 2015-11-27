@@ -1,0 +1,2 @@
+LOG.debug("foo");
+blah();
